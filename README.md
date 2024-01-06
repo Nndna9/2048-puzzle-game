@@ -7,3 +7,4 @@ This is a simple, single player puzzle game made by using MIT app Inventor
 
  # Downloads 
   Download the MIT AI2 Companion to play the game.
+  https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=en&gl=US
